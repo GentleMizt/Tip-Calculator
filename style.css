@@ -9,7 +9,7 @@ html{
 body{
     background-image: url(./images2/APC13.jpg);
     background-size: cover;
-
+    background-repeat: no-repeat;
 }
 main{
     color: #fff;
@@ -42,14 +42,14 @@ select{
     border: none;
     outline: none;
 }
-.calculate{
+#calculate{
     border-radius: 1rem;
     background-color: white;
     border: none;
     padding: 1rem;
     margin-top: 1rem;
 }
-.calculate:hover{
+#calculate:hover{
     background-color: #000;
     color: #fff;
 }
