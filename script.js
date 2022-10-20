@@ -14,5 +14,24 @@ function callBackFunction(){
     }
     
     const myTip = input.value * select.value;
-    console.log(myTip);
+    tip.innerHTML = myTip;
 }
+
+
+// API stands for Application Programming Interface
+// DNS stands for Domain Name Service
+// ISP stands for Internet Service Provider
+
+// Read up on Promises, .then, .catch, .async await
+
+// Look up and read up on articles about
+// Execution Stack
+// Event Loop
+// Web APIs
+// Message Queue
+// Promises
+// async await
+// .then .catch
+
+
+// Check Up on your problems on Stack Overflow
